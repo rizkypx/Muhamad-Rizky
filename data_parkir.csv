@@ -1,0 +1,3 @@
+plat_nomor,jenis_kendaraan,waktu_masuk,waktu_keluar,durasi,total_bayar,status
+D 600,Motor,2026-06-16 21:52,-,-,0,PARKIR
+B 6787 GIK,Motor,2026-06-16 21:54,-,-,0,PARKIR
